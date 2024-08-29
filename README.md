@@ -1,2 +1,7 @@
 # 2024TeamTest
-testing git
+
+## MetalCow Git Testing
+
+## Team Members
+
+* Nathan Tofte
