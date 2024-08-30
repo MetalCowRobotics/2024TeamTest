@@ -8,7 +8,9 @@
 * Praveer
 * Vikhyath
 * Nathan Tofte
+* Ansh Gupta
 * Zachary Zotz
 * Bryan Bathe
 * Cole Nelson
 * Scribe
+
