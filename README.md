@@ -4,8 +4,8 @@
 
 ## Team Members
 
-## Praveer
-
-## Vikhyath
-
+* Rudra
+* Praveer
+* Vikhyath
 * Nathan Tofte
+
