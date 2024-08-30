@@ -5,3 +5,5 @@
 ## Team Members
 
 * Nathan Tofte
+
+* Scribe 
