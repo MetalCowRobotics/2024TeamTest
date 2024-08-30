@@ -8,4 +8,5 @@
 * Praveer
 * Vikhyath
 * Nathan Tofte
+* Cole Nelson
 * Scribe
