@@ -4,6 +4,8 @@
 
 ## Team Members
 
+* Rudra
+* Praveer
+* Vikhyath
 * Nathan Tofte
-
-* Scribe 
+* Scribe
