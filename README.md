@@ -4,4 +4,4 @@
 
 ## Team Members
 
-* Nathan Tofte
+* Tim Tofte
