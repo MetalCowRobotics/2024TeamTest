@@ -5,3 +5,4 @@
 ## Team Members
 
 * Nathan Tofte
+* Bryan Bathe
