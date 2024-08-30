@@ -4,5 +4,11 @@
 
 ## Team Members
 
+* Rudra
+* Praveer
+* Vikhyath
 * Nathan Tofte
 * Zachary Zotz
+* Bryan Bathe
+* Cole Nelson
+* Scribe
