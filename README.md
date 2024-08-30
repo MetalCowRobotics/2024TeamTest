@@ -4,4 +4,5 @@
 
 ## Team Members
 
+* Nathan Tofte 
 * Grayson Matthews 
